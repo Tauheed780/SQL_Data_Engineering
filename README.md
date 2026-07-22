@@ -4,7 +4,7 @@ Hands-on projects to reinforce core data engineering concepts from the SQL for D
 
 # Projects
 
-## [1_EDA/](1_EDA\README.md) - Exploratory Data Analysis
+## [1_EDA/](1_EDA/README.md) - Exploratory Data Analysis
 ![EDA Project Overview](images/1_1_Project1_EDA.png)
 SQL-driven analysis of data engineer job market trends using advanced querying techniques.
 
